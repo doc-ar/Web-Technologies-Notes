@@ -1,8 +1,9 @@
 # Table of Contents
-1. [HTML](#HTML)
-	1. [Tags](#Tags)
-	2. [HTTP Request](<## HTTP Request>)
-	3. [Forms](#Forms)
+- [HTML](#HTML)
+	- [Tags](#Tags)
+	- [HTTP Request](#HTTP%20Request)
+	- [Forms](#Forms)
+
 # HTML
 - Hyper Text Markup Language
 - HTML is a markup language used for structuring a webpage

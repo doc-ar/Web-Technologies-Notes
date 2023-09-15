@@ -1,4 +1,4 @@
-- ==**Keep performance and SEO in mind at every step of the web dev process**==
+- ***Keep performance and SEO in mind at every step of the web dev process***
 - URL Structure Guidelines for SEO by Google ([Google Search Central](https://developers.google.com/search/docs/crawling-indexing/url-structure))
 - **URL Encoding** or Percent Encoding
 	- Used for encoding ***Unicode (UTF-8)*** non-alphanumeric characters in the URL
