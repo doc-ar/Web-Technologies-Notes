@@ -1,0 +1,40 @@
+- ==**Keep performance and SEO in mind at every step of the web dev process**==
+- URL Structure Guidelines for SEO by Google ([Google Search Central](https://developers.google.com/search/docs/crawling-indexing/url-structure))
+- **URL Encoding** or Percent Encoding
+	- Used for encoding ***Unicode (UTF-8)*** non-alphanumeric characters in the URL
+- **Open Graph Protocol** - All social media sites use this protocol
+- **SERP** (Search Engine Result Pages)
+- **Keyword**: Anything you write in a search engine
+- **Crawling**
+	- Search engine downloads a larges amount of webpages
+	- The search engine starts from a seed URL and then reaches many more web pages by following the linked websites
+	- The search engine then reads and processes all the data in the webpages
+	- The search engine then indexes the webpage to make searching faster
+	- [Common Crawl](https://www.commoncrawl.org) is an open source **Web Crawler**
+- Fix any aspect ratio differences when inserting images in html
+- Upload images in different aspect ratios as required in the server instead of a single larger image
+- Common terms in ***E-Commerce*** websites
+	- Listing Page: The products are all listed in this page either as list view or grid view
+	- Widget: A small application in the side of the screen with some functionality
+		- By clicking the widget we can reach the detail page of the widget
+- ***CDN (Content Distribution Network)*** is a high performance server for providing images and videos
+	- CDNs are globally distributed networks
+- ***Longtail*** is an SEO keyword optimization method
+	- The Broader the keyword the more the traffic
+	- There are more people who rank in broad keywords hence it is a high competition area
+	- The keyword should be less broad which brings less traffic but easier to rank
+	- Use many more keywords which are lesser known than using broader keywords
+	- The more specific the niche is, the more benefit we get
+- A browser is an ***HTTP Client***
+	- To make requests programmatically without the use of a browser we need an ***HTTP Client***
+	- We can either create an HTTP client which is very difficult (Low Level Programming)
+	- Or we can use an existing HTTP client which is an easier approach (High Level Programming)
+	- Some of the existing HTTP Clients are ***SSL***, ***Apache HTTPClient***, ***OpenSSL*** etc.
+	- ***Requests*** module can be used in python for making HTTP requests
+- ***Data Parsing:*** Downloading and Reading data from a URL
+- ***Data Crawling:*** Downloading and Reading data from a ***Seed URL*** and then repeat this process in the links found
+- ***Data Processing:*** Converting data from one form to another
+- Data Parsing, Crawling and Processing are very in demand web services
+- ***Google App Script*** are very niche longtail web services
+	- Making custom requirements for Google applications (i.e. Google Docs, Sheets, Drive, Presentation)
+- 

@@ -1,0 +1,1 @@
+- Selenium is a dynamic webscraping tool

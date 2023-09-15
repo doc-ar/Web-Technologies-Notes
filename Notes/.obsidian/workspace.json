@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "cff0f4ced5bc7a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ac677dc48eaa68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "594d5a24dde21de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extra Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae9a2c208a965ec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2631b900a25b785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1917c3475d1b00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3171a16335aa7168",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5109642b6b9f6e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d4307f0943a6a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2146ccd32b94d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa60ad87c28c318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extra Information.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50503bbb8f357fda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extra Information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "448170d8c70b4be6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f56346a824f07ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extra Information.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "594d5a24dde21de3",
+  "lastOpenFiles": [
+    "Website Worth.md",
+    "Webscraping.md",
+    "Introduction to CSS.md",
+    "Introduction to HTML.md",
+    "Extra Information.md",
+    "Untitled.canvas"
+  ]
+}
