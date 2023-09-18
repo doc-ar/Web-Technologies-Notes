@@ -1,7 +1,7 @@
 # Table of Contents
 - [HTML](#HTML)
 	- [Tags](#Tags)
-	- [HTTP Request](#HTTP%20Request)
+	- [HTTP Request](#HTTP-Request)
 	- [Forms](#Forms)
 
 # HTML

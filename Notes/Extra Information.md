@@ -37,4 +37,3 @@
 - Data Parsing, Crawling and Processing are very in demand web services
 - ***Google App Script*** are very niche longtail web services
 	- Making custom requirements for Google applications (i.e. Google Docs, Sheets, Drive, Presentation)
-- 
